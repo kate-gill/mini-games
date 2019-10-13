@@ -17,7 +17,7 @@ Here is the demo:
 
 * **Rock Paper Scissors** 
 
-Classic Rock Paper Scissors game. Player is competing against computer. Computer is picking a randomly generated option in each round.
+Classic Rock Paper Scissors game. Player competes against computer. Computer picks a randomly generated option in each round.
 
 There are three rounds in total. Each time someone wins, one point is awarded. In case of a tie, no points awarded. 
 
